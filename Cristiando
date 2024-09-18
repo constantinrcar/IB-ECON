@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IBDP Economics Overview</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>IBDP Economics Overview</h1>
+        <p>An overview of key concepts in IBDP Economics.</p>
+    </header>
+
+    <section id="market-demand">
+        <h2>Market Demand</h2>
+        <p><strong>Definition:</strong> Market demand is the total quantity of a good or service demanded by all consumers at different price levels.</p>
+        <p><strong>Key Points:</strong> It is the sum of all individual demands, affected by both price and non-price
